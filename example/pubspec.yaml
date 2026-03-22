@@ -1,0 +1,18 @@
+name: flutter_ui_lib_example
+description: Demo app for flutter_ui_lib components.
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_ui_lib:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

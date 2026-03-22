@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub:*)",
+      "Bash(flutter devices:*)",
+      "Bash(flutter run:*)",
+      "Bash(flutter create:*)",
+      "Bash(EXAMPLE=\"c:/Users/anton/Desktop/INMOBILER FLUTTER/flutter_ui_lib/example/lib/main.dart\")",
+      "Bash(__NEW_LINE_e701f8a587bc0fe8__ sed:*)",
+      "Bash(__NEW_LINE_e701f8a587bc0fe8__ echo:*)",
+      "Bash(flutter build:*)",
+      "Bash(cp \"c:/Users/anton/Downloads/LOGO - SUPERVISORES.svg\" \"c:/Users/anton/Desktop/INMOBILER FLUTTER/flutter_ui_lib/assets/logos/supervisores.svg\")",
+      "Bash(cp \"c:/Users/anton/Downloads/LOGO - VENDEDORES.svg\" \"c:/Users/anton/Desktop/INMOBILER FLUTTER/flutter_ui_lib/assets/logos/vendedores.svg\")",
+      "Bash(cp \"c:/Users/anton/Downloads/LOGO - TRANSPORTISTAS.svg\" \"c:/Users/anton/Desktop/INMOBILER FLUTTER/flutter_ui_lib/assets/logos/transportistas.svg\")"
+    ]
+  }
+}
